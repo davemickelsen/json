@@ -1,0 +1,10 @@
+{
+  "user": {
+    "email": "test@test.com",
+    "emailVerified": false,
+    "firstName": "Test",
+    "id": "1",
+    "lastName": "Tester",
+    "username": "test@test.com"
+  }
+}
