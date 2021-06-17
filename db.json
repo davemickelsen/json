@@ -6,5 +6,23 @@
     "id": "1",
     "lastName": "Tester",
     "username": "test@test.com"
+  },
+  "users": {
+    "1":{
+      "email": "test@test.com",
+      "emailVerified": false,
+      "firstName": "Test",
+      "id": "1",
+      "lastName": "Tester",
+      "username": "test@test.com"
+    },
+    "2":{
+      "email": "test2@test2.com",
+      "emailVerified": false,
+      "firstName": "Test2",
+      "id": "2",
+      "lastName": "Tester2",
+      "username": "test2@test2.com"
+    }
   }
 }
