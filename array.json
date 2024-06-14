@@ -1,0 +1,34 @@
+[
+    {
+        "email": "test@test.com",
+        "emailVerified": false,
+        "firstName": "Test",
+        "id": "1",
+        "lastName": "Tester",
+        "username": "test@test.com"
+    },
+    {
+        "email": "test2@test.com",
+        "emailVerified": false,
+        "firstName": "Test2",
+        "id": "2",
+        "lastName": "Tester",
+        "username": "test2@test.com"
+    },
+    {
+        "email": "test3@test.com",
+        "emailVerified": false,
+        "firstName": "Test3",
+        "id": "3",
+        "lastName": "Tester",
+        "username": "test3@test.com"
+    },
+    {
+        "email": "test4@test.com",
+        "emailVerified": false,
+        "firstName": "Test4",
+        "id": "4",
+        "lastName": "Tester",
+        "username": "test4@test.com"
+    }
+]
